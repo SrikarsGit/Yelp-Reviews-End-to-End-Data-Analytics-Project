@@ -2,10 +2,13 @@
 
 **Table Of Contents:**
 1. [Project Overview](#project-overview)
-2. Entity Relationship Diagram (ERD)
-3. Database Schema
-4. Key Business Problems Solved
-5. Query Optimization
-7. Skills Highlighted
-8. Dataset
-9. Conclusion
+2. [Tech Stack](#tech-stack)
+3. [Dataset Description](#dataset-description)
+4. [Entity Relationship Diagram](#entity-relationship-diagram)
+5. [Key Business Questions Solved](#key-business-questions-solved)
+7. [Skills Demonstrated](#skills-demonstrated)
+8. [Screenshots](#screenshots)
+9. [Conclusion](#conclusion)
+
+
+--
