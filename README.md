@@ -1,6 +1,6 @@
 # ![Apple Logo](https://retailwire.com/wp-content/uploads/Yelp-Mojahid_Mottakin-Depositphotos.com_-1536x993.jpg) Yelp Reviews Sentiment & Behavior Analysis 
 
-**Table Of Contents:**
+## **Table Of Contents:**
 1. [Project Overview](#project-overview)
 2. [Tech Stack](#tech-stack)
 3. [Dataset Description](#dataset-description)
@@ -11,4 +11,3 @@
 9. [Conclusion](#conclusion)
 
 
---
