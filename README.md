@@ -16,3 +16,14 @@
 Analyzed over **7 million Yelp reviews** to uncover patterns in customer sentiment, user behavior, business performance, and regional trends — all using **SQL** and **Snowflake**. This project is built to demonstrate large-scale data analysis, UDF-based sentiment scoring, and behavioral trend discovery.
 
 
+## Tech Stack
+
+- **Python** – Splitting large JSON files for upload
+- **Snowflake SQL** – Data modeling, transformation, and analysis
+- **Snowflake UDF** – Python-based sentiment analysis with VADER
+- **Draw.io** – Project workflow design
+
+
+
+
+
