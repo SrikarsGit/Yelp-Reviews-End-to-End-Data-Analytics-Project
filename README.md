@@ -108,7 +108,7 @@ This UDF was invoked directly inside the yelp_reviews table creation query.
 
 | Step                 | Description                                                                               |
 | -------------------- | ----------------------------------------------------------------------------------------- |
-| **1. Raw Data**      | A large Yelp dataset (5GB JSON) containing reviews and business metadata.                 |
+| **1. Raw Data**      | A large Yelp dataset (5GB JSON) containing reviews and businesses metadata.                 |
 | **2. Preprocessing** | Python is used to split the data into 25 smaller files (200MB each) for easier ingestion. |
 | **3. Upload**        | Data is loaded into Snowflake staging tables using the `VARIANT` type.                    |
 | **4. Flattening**    | JSON fields are extracted and cast to appropriate SQL data types using `::`.              |
