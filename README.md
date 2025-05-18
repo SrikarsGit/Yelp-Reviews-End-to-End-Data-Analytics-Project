@@ -119,45 +119,36 @@ This UDF was invoked directly inside the yelp_reviews table creation query.
 
 ## Key Business Questions Solved
 
-1. **Find the number of businesses in each category** 
+_1. Find the number of businesses in each category_
 
-2. **Identify the top 10 users who have reviewed the most businesses** in the "Restaurants" category.
+_2. Identify the top 10 users who have reviewed the most businesses in the "Restaurants" category._
 
-3. **Determine the most popular business categories** based on the total number of reviews.
+_3. Determine the most popular business categories based on the total number of reviews._
 
-4. **Extract the top 3 most recent reviews for each business** using window functions.
+_4. Extract the top 3 most recent reviews for each business using window functions._
 
-5. **Find the month with the highest number of reviews** using date-based aggregation.
+_5. Find the month with the highest number of reviews using date-based aggregation._
 
-6. **Calculate the percentage of 5-star reviews for each business** to assess excellence.
+_6. Calculate the percentage of 5-star reviews for each business to assess excellence._
 
-7. **List the top 5 most reviewed businesses in each city** 
+_7. List the top 5 most reviewed businesses in each city._
 
-8. **Find businesses with at least 100 reviews and show their average rating** for reliability assessment.
+_8. Find businesses with at least 100 reviews and show their average rating for reliability assessment._
 
-9. **List the top 10 users with the most reviews** and show the businesses they reviewed.
+_9. List the top 10 users with the most reviews and show the businesses they reviewed._
 
-10. **Identify the top 10 businesses with the highest number of positive sentiment reviews**.
+_10. Identify the top 10 businesses with the highest number of positive sentiment reviews._
 
-11. **Find the top 50 businesses with the highest percentage of negative sentiment reviews**.
+_11. Find the top 50 businesses with the highest percentage of negative sentiment reviews._
 
-12. **Detect businesses with the most consistent ratings** by calculating the variance of review stars (with at least 100 reviews).
+_12. Detect businesses with the most consistent ratings by calculating the variance of review stars (with at least 100 reviews)._
 
-13. **Compute the average number of words per review for each business category** to analyze engagement depth.
+_13. Compute the average number of words per review for each business category to analyze engagement depth._
 
-14. **List cities with the most 1-star reviews** to identify areas of poor customer satisfaction.
+_14. List cities with the most 1-star reviews to identify areas of poor customer s_
 
-15. **Identify “hidden gem” businesses** with high average ratings (≥ 4.8) and low review volume (20–25 reviews).
 
-16. **Detect users who gave increasingly negative reviews to specific businesses** using correlation analysis over time.
 
-17. **Compare sentiment distribution between weekdays and weekends** to understand behavior patterns.
-
-18. **Analyze if users post longer reviews when they are unhappy**, comparing review lengths by sentiment.
-
-19. **Find the top 10 states with the highest number of reviews**, and list the top 3 most popular business categories in each.
-
-20. **Identify businesses that had great ratings initially but are now in decline**, based on yearly correlation of average ratings.
 
 
 ## Key Insights Generated
