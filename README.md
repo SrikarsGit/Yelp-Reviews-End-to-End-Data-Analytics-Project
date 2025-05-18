@@ -147,7 +147,7 @@ This UDF was invoked directly inside the yelp_reviews table creation query.
 
 14. **List cities with the most 1-star reviews** to identify areas of poor customer satisfaction.
 
-15. **Identify “hidden gem” businesses** with high average ratings (≥ 4.5) and low review volume (20–50 reviews).
+15. **Identify “hidden gem” businesses** with high average ratings (≥ 4.8) and low review volume (20–25 reviews).
 
 16. **Detect users who gave increasingly negative reviews to specific businesses** using correlation analysis over time.
 
